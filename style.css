@@ -59,3 +59,9 @@ a:hover {
 #footer a:hover {
   color: white;
 }
+
+#content{
+  display: flex;
+  align-items:center; 
+  justify-content:center;
+}
