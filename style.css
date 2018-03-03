@@ -36,9 +36,9 @@ a:hover {
   font-size: 30px;
 }
 #banner{
-  text-align: center;
+  text-align: left;
   background-image: url("https://unsplash.it/1300/600?random");
-  background-size: cover;
+  background-size:cover ; /*cover*/
   padding: 150px;
   color: white;
   text-shadow: 1px 1px 5px black;
